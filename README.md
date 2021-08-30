@@ -1,4 +1,2 @@
-# test-repository
-This is a test description
-
-this is a second example
+# test code
+Learning how to push, pull and commit in github.
